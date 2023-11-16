@@ -1,2 +1,2 @@
-# websiteimages
-These are the images used on my website so I don't have to host files and slow the wifi to a crawl
+# thewebpage
+This is the source code and github pages source for the website, to edit during school. 
